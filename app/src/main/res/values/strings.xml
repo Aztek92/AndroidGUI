@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Android</string>
+    <string name="name">Imię: </string>
+    <string name="surname">Nazwisko: </string>
+    <string name="gradesamount">Ilość ocen: </string>
+    <string name="gradesButtonText">Oceny</string>
+    <string name="startNotification"><![CDATA[Proszę uzupełnić wszystkie pola. Przedział ocen <4,7>.]]></string>
+    <string name="gradesAmountZero">Liczba ocen jest pusta.</string>
+    <string name="gradesAmount2Few">Za mało ocen.</string>
+    <string name="gradesAmount2Many">Za dużo ocen.</string>
+    <string name="surnameClear">Nazwisko nie może być puste</string>
+    <string name="nameClear">Imię nie może być puste</string>
+    <string name="superButton">Super! :)</string>
+    <string name="badButton">Nie poszło mi ;c</string>
+    <string name="gradesReady">Gotowe</string>
+    <string name="gradeLabel">Ocena</string>
+    <string name="avrg">Średnia:</string>
+    <string name="success">Gratulacje! Otrzymujesz zaliczenie!</string>
+    <string name="failure">Wysyłam podanie o zaliczenie warunkowe.</string>
+</resources>
